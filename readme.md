@@ -1,4 +1,4 @@
-![img](https://github.com/readywater/MonomeVideoMixer/blob/master/VidMixer/_vid3.png)
+![img](https://raw.githubusercontent.com/readywater/MonomeVideoMixer/master/VidMixer/_vid3.png)
 
 Okay, so this is a video mixer that started as an attempt to learn Max/Jitter from Andrew Benson's tutorials on the cycling 74 site, and turned in to a bit of an driving force behind my interest in code, design, and systems.
 
